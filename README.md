@@ -28,7 +28,7 @@ The report focuses on understanding market trends, pricing behavior, and key inf
 
 ---
 
-## 📐 DAX Functions Used (Brief Explanation)
+## 📐 DAX Functions Used 
 - `CALCULATE()` – modifies filter context for measures  
 - `YEAR()` – extracts year from date fields  
 - `MAX()` – identifies maximum values  
