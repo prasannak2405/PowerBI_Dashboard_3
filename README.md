@@ -68,7 +68,7 @@ The report focuses on understanding market trends, pricing behavior, and key inf
 ## 📸 Screenshots
 
 #### Snapshot of DAX expression used to calculate Measures and Calculated Column:
-![HMO_M&CC] (https://github.com/prasannak2405/PowerBI_Dashboard_3/blob/44763c9fbae01636056d55f08e9c5073206a32d0/images/HMO_M%26CC.png)
+![HMO_M&CC](https://github.com/prasannak2405/PowerBI_Dashboard_3/blob/44763c9fbae01636056d55f08e9c5073206a32d0/images/HMO_M%26CC.png)
 
 ---
 
